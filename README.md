@@ -1,2 +1,2 @@
-# manual-testing porfolio
-
+# manual-testing portfolio
+Creating test cases soon ....
