@@ -2,7 +2,7 @@
 
 Welcome to my Manual Testing Portfolio!  
 
-## Test Case Template  
+## Test Case Template for LinkedIn Login process
 
 I'm currently working on creating test cases for manual testing. Here's my first test case template, created using Google Sheets.  
 
