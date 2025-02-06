@@ -10,7 +10,7 @@ I’m a passionate manual software tester transitioning from a succesful 12-year
 ## 🚀 Projects
 Here are some of the projects I’ve worked on:
 1. **LinkedIn Login Functionality Testing**: Created test cases to verify LinkedIn login functionality from a Canadian IP.
-2.             👉 [View Test Case Template](https://docs.google.com/spreadsheets/d/1ShZ-dKfEMCHMPvwq4hqHyGgWJaGET1hGd7gCASv65pM/edit?gid=1807726362#gid=1807726362)  
+2.             👉 (https://docs.google.com/spreadsheets/d/1ShZ-dKfEMCHMPvwq4hqHyGgWJaGET1hGd7gCASv65pM/edit?gid=1807726362#gid=1807726362)  
 3. **E-commerce Website Testing**: UPCOMING !!!!!
 
 ## 🌱 Learning
